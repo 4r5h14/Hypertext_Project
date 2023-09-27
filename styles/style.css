@@ -1,0 +1,22 @@
+body {
+  color: white;
+  background-color: black;
+}
+
+.center {
+  font-family: cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  border: 3px solid black;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 12%;
+  border: 3px solid white;
+}
