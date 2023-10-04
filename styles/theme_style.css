@@ -14,8 +14,9 @@ body {
   position: absolute;
   margin: 0 auto;
   
-  color: black;
+  color: white;
   font-size: xx-large;
+  background-color: rgba(0,0,0,.4);
 
 }
 
