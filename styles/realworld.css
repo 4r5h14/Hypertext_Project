@@ -7,15 +7,13 @@ body {
   background-image: url(https://gifdb.com/images/high/nyc-busy-sidewalk-crowd-wrd5j543ac5544ld.webp);
   background-repeat: no-repeat;
   background-size: 100%;
+  background-color: black;
  
 }
 
 
 .center {
-  position: absolute;
   margin: 0 auto;
-  left: 36.6%;
-  top: 29%;
   color: red;
   font-size: larger;
 
@@ -27,8 +25,31 @@ body {
   font-size: xx-large;
   position: absolute;
   margin: 0 auto;
-  left: 80%;
-  top: 100%;
+  left: 36.5%;
+  top: 32%;
+  border-radius: 2px;
  
+}
+
+.coffee{
+  color: black;
+  background-color: brown;
+  font-size: xx-large;
+  position: absolute;
+  margin: 0 auto;
+  right: 10%;
+  top: 30%;
+  border-radius: 4px;
+}
+
+.Bus {
+  color: blue;
+  background-color: white;
+  font-size: xx-large;
+  position: absolute;
+  margin: 0 auto;
+  left: 5%;
+  top: 50%;
+  border-radius: 5px;
 }
 
