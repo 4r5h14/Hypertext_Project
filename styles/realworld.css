@@ -42,6 +42,15 @@ body {
   border-radius: 4px;
 }
 
+
+.cup{
+  position: absolute;
+  margin: 0 auto;
+  right: 11.6%;
+  top: 35%;
+}
+
+
 .Bus {
   
   
