@@ -19,13 +19,20 @@ body {
   color: white;
   font-size: xx-large;
   background-color: rgba(0,0,0,.4);
-
+ 
 
 }
 
 .h1{
   position: center;
-  opacity: 1;
+  opacity: 0;
+  transition: all 1s ease-in-out;
+  background-color: rgba(0,0,0,.4);
+}
+
+.h3{
+  position: center;
+  opacity: 0;
   transition: all 1s ease-in-out;
   background-color: rgba(0,0,0,.4);
 }
@@ -36,7 +43,7 @@ body {
   margin-bottom:20px;
   height:auto;
   opacity: 0;
-  transition: all 2s ease-in;
+  transition: all 2s ease-in-out;
 }
 
 .fadein {
@@ -47,7 +54,7 @@ body {
   background-size: 39%;
   padding-left: 44%;
   opacity: 0;
-  transition: all 5s ease-in;
+  transition: all 5s ease-in-out;
   
 }
 
@@ -61,7 +68,7 @@ body {
   padding-right: 60%;
   color:white;
   opacity: 0;
-  transition: all 10s ease-in;
+  transition: all 10s ease-in-out;
 
 }
 
@@ -76,7 +83,7 @@ body {
   padding-right: 40%;
   position: center;
    opacity: 0;
-  transition: all 12s ease-in;
+  transition: all 12s ease-in-out;
 
 }
 
