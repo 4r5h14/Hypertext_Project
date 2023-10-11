@@ -43,9 +43,13 @@ body {
 }
 
 .Bus {
-  color: blue;
-  background-color: white;
+  
+  
+  background-image: url(https://media.tenor.com/f4EnV6LmwdwAAAAd/transit-bus.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
   font-size: xx-large;
+  color: white;
   position: absolute;
   margin: 0 auto;
   left: 5%;
