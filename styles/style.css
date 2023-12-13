@@ -34,6 +34,20 @@ body {
 
 }
 
+.back{
+  color: white;
+  background-color: #ddfffa;
+  
+  position: absolute;
+  margin: 0 auto;
+  right: 60%;
+  top: 50%;
+  border: 7px solid #ddfffa;
+  border-radius: 25px;
+  font-family: "Sofia";
+  font-size: medium;
+}
+
 .center{
   position: absolute;
 }
